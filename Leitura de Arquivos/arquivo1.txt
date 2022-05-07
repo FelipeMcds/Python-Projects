@@ -1,1 +1,0 @@
-Testanto gravação de artquivos em Python Acrescentando conteúdo
